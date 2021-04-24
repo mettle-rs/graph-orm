@@ -1,0 +1,12 @@
+[package]
+name = "graph-orm"
+description = "A Graph based ORM for rust."
+version = "0.1.0"
+authors = ["Pulkit Bhardwaj <pulkitbhardwaj1994@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/mettle-rs/graph-orm"
+license-file = "../LICENSE"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
